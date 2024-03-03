@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "598348382140",
+    "project_id": "bakaata-721d7",
+    "storage_bucket": "bakaata-721d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598348382140:android:8e47fc9aada2fc978835b9",
+        "android_client_info": {
+          "package_name": "com.example.bakaata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598348382140-msi57a297s5bdos6elu2272f2nlhvdga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bakaata",
+            "certificate_hash": "8501481def88af6938e599aac7f49b409aa9b5c4"
+          }
+        },
+        {
+          "client_id": "598348382140-vhe02elo0ibajkbo01hfictqsikckjll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUejjgtVMI8vIvy7kl-MM7Ine1dOVKck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598348382140-vhe02elo0ibajkbo01hfictqsikckjll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598348382140-2k4hb81nopeunfm5oijl2da7av3d7vk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bakaata"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
